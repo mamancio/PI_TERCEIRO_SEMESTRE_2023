@@ -78,7 +78,7 @@ export const Cadastro = () => {
                         </div>
 
                         <div className="container-login-form-btn">
-                            <button className="login-form-btn" >Cadastrar</button>
+                            <button to="/home" className="login-form-btn" >Cadastrar</button>
                         </div>
 
                         <div className="text-center">
