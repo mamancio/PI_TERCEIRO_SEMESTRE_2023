@@ -30,4 +30,4 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas no 
 
 <span id="equipe">
 
-Vídeo de apresentação do PI
+# vÍDEO DE APRESENTAÇÃO DO PI
