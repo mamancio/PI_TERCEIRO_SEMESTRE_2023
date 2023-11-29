@@ -32,3 +32,8 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas no 
 <span id="equipe">
 
 ## VÍDEO DE APRESENTAÇÃO DO PI
+
+## POSTAGEM NO DOMINIO VERCEL
+
+https://pi-terceiro-semestre-2023.vercel.app/home
+
