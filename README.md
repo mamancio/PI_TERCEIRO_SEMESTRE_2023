@@ -21,7 +21,7 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas no 
 ## 🧑‍💻 Equipe
     
 | Nome | GitHub |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
 | Matheus Mancio | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/FelipeTardivo)|
 | Danilo Ribeiro |[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/dRibSouza)|
 | Moiseis Verissimo | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/VerissimoMoises)          |
