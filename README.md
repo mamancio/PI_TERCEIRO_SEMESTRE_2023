@@ -20,7 +20,7 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas no 
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-## 🧑‍💻 Equipe
+## Equipe
     
 | Nome | GitHub |
 
