@@ -29,3 +29,5 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas no 
 | Thayna S Silva | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ThaynaSSilva?tab=repositories)|
 
 <span id="equipe">
+
+Vídeo de apresentação do PI
