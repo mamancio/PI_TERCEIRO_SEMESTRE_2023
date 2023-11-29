@@ -4,6 +4,7 @@ import {BrowserRouter as Router , Routes, Route, Navigate} from 'react-router-do
 
 import { Login } from '../pages/login'
 import { Home } from '../pages/home'
+import { Trabalho } from '../pages/servico'
 import { Navbar } from '../components/Navbar';
 import { Cadastro } from '../pages/cadastro';
 
@@ -33,16 +34,12 @@ const AppRoutes = () => {
             <AuthProvider>
 
                 <Routes>                  
-                    <Route path='/' exact element={
-                        <Private>
-                            <Home />
-                        </Private>
-                    } />
+                    <Route path='/home' exact element={<Home />} />
 
                     <Route path='/login' exact element={<Login />} />
                     
-                    <Route path='/servicos' exact element={<Home />} />
-                    
+                    <Route path='/servico' exact element={<Trabalho />} />
+    
                     <Route path='/cadastro' exact element={<Cadastro />} />
                 </Routes>
             </AuthProvider>

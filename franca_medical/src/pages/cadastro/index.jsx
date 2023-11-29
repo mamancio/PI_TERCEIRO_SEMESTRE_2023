@@ -12,6 +12,7 @@ export const Cadastro = () => {
     const [nome, setNome] = useState("")
     const [cpf, setCPF] = useState("")
     const [cpfErr, setCpfErr] = useState(false)
+    
     const handleBlur = () => {
         validate();
         setCPF(cpf);
@@ -27,8 +28,8 @@ export const Cadastro = () => {
             
         }
     }
-
     console.log({cpf})
+    
     return (
         <div className="container">
             <div className="container-login">
@@ -59,15 +60,21 @@ export const Cadastro = () => {
                         </div>
 
                         <div className="wrap-input">
-                            <input className={password !== "" ? 'has-val input': 'input'}
-                            type="password" value={password} onChange={e => setPassword(e.target.value)} />
+                            <input
+                                className={password !== "" ? 'has-val input': 'input'}
+                                type="password"
+                                value={password}
+                                onChange={e => setPassword(e.target.value)}/>
                             <span className="focus-input" data-placeholder="Password"></span>
                         </div>
 
                         <div className="wrap-input">
                             <input className={confirmepassword !== "" ? 'has-val input': 'input'}
-                            type="confirmepassword" value={confirmepassword} onChange={e => setConfirmepassword(e.target.value)} />
-                            <span className="focus-input" data-placeholder="Confirmepassword"></span>
+                            type="password"
+                            value={confirmepassword}
+                            onChange={e => setConfirmepassword(e.target.value)}/>
+
+                            <span className="focus-input" data-placeholder="Confirme Password"></span>
                         </div>
 
                         <div className="container-login-form-btn">

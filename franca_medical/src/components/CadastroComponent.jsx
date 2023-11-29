@@ -9,6 +9,7 @@ import Select from 'react-select';
         initialValues={{}}        
       >
         <div className="container-cadastro2">
+
         <h1>Cadastro de Usuários</h1>
             <Form className="register-form">
 
@@ -44,7 +45,9 @@ import Select from 'react-select';
                     <div className="form-group">
                         <label>Senha</label>
                         <br></br>
-                        <input type="password" className="form-control"
+                        <input
+                            type="password"
+                            className="form-control"
                             name="senha"
                             value={""}
                             onChange={e => this.updateField(e)}
@@ -58,7 +61,9 @@ import Select from 'react-select';
                     <div className="form-group">
                         <label>Confirme sua senha</label>
                         <br></br>
-                        <input type="confirmepassword" className="form-control"
+                        <input
+                            type="password"
+                            className="form-control"
                             name="confsenha"
                             value={""}
                             onChange={e => this.updateField(e)}

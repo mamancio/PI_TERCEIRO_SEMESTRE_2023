@@ -1,15 +1,15 @@
 import React from "react";
-import Content from "../../components/Content";
+import Servico from "../../components/Servico";
 
 import '../../App.css'
 
 
-export const Home = () => {
+export const Trabalho = () => {
     return (
         <div className="App">
             <div className="main">
             </div>
-            <Content />
+            <Servico />
         </div>
     );
 }
