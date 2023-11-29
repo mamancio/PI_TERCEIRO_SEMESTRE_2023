@@ -8,6 +8,7 @@ A pagina web ela mostrara sobre sua história, parceiros, as áreas que serão a
 o paciente poderá fazer um cadastro para acompanhar seus exame, consultas e extratos de pagamento. Esse sistema também será utilizado
 pelos médicos e funcionários da clinica. A parte do sistema será desenvolvida posteriormente no próximo PI como continuação.
 
+<span id="tecnologias">
 Tecnologias 
 
 As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas no projeto:
