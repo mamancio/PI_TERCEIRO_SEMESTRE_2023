@@ -33,7 +33,7 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas no 
 
 ## VÍDEO DE APRESENTAÇÃO DO PI
 
-Link para o youtube {PI 3º SEMESTRE}
+Link para o youtube [PI 3º SEMESTRE]
 
 ## POSTAGEM NO DOMINIO VERCEL
 
